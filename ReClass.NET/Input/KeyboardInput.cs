@@ -2,7 +2,7 @@
 using System.Diagnostics.Contracts;
 using System.Windows.Forms;
 
-namespace ReClassNET.Input
+namespace DeClassNet.Input
 {
 	public class KeyboardInput : IDisposable
 	{

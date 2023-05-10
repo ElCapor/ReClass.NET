@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Drawing;
-using ReClassNET.CodeGenerator;
-using ReClassNET.DataExchange.ReClass;
-using ReClassNET.Nodes;
+using DeClassNet.CodeGenerator;
+using DeClassNet.DataExchange.ReClass;
+using DeClassNet.Nodes;
 
-namespace ReClassNET.Plugins
+namespace DeClassNet.Plugins
 {
 	public class Plugin
 	{

@@ -1,9 +1,9 @@
 using System;
 using System.Diagnostics;
 using System.Text;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 
-namespace ReClassNET.MemoryScanner.Comparer
+namespace DeClassNet.MemoryScanner.Comparer
 {
 	public class StringMemoryComparer : ISimpleScanComparer
 	{

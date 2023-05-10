@@ -4,11 +4,11 @@ using System.IO;
 using System.IO.Compression;
 using System.Xml.Linq;
 
-namespace ReClassNET.DataExchange.ReClass
+namespace DeClassNet.DataExchange.ReClass
 {
 	public partial class ReClassNetFile
 	{
-		/// <summary>Reads a platform from the ReClass.NET file.</summary>
+		/// <summary>Reads a platform from the DeClass.NET file.</summary>
 		/// <exception cref="FormatException">Thrown if the format of the file is incorrect.</exception>
 		/// <param name="path">Full path of the file.</param>
 		/// <returns>The platform as string.</returns>

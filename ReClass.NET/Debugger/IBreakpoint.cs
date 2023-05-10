@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
-using ReClassNET.Memory;
+using DeClassNet.Memory;
 
-namespace ReClassNET.Debugger
+namespace DeClassNet.Debugger
 {
 	public delegate void BreakpointHandler(IBreakpoint breakpoint, ref DebugEvent evt);
 

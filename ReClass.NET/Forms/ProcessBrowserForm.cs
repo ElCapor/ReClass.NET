@@ -3,11 +3,11 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Memory;
-using ReClassNET.Native;
-using ReClassNET.UI;
+using DeClassNet.Memory;
+using DeClassNet.Native;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class ProcessBrowserForm : IconForm
 	{

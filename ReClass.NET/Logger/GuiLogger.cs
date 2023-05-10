@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics.Contracts;
 using System.Windows.Forms;
-using ReClassNET.Forms;
+using DeClassNet.Forms;
 using System;
 
-namespace ReClassNET.Logger
+namespace DeClassNet.Logger
 {
 	/// <summary>A logger which displays messages in a form.</summary>
 	public class GuiLogger : BaseLogger

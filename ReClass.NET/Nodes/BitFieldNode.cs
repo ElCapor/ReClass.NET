@@ -1,13 +1,13 @@
 using System;
 using System.Diagnostics.Contracts;
 using System.Drawing;
-using ReClassNET.Controls;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.UI;
-using ReClassNET.Util;
+using DeClassNet.Controls;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.UI;
+using DeClassNet.Util;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class BitFieldNode : BaseNode
 	{

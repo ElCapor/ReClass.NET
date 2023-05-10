@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class SettingsForm
 	{
@@ -56,32 +56,32 @@ namespace ReClassNET.Forms
             this.nodeColorGroupBox = new System.Windows.Forms.GroupBox();
             this.nodeValueLabel = new System.Windows.Forms.Label();
             this.nodePluginLabel = new System.Windows.Forms.Label();
-            this.nodeHexValueColorBox = new ReClassNET.Controls.ColorBox();
-            this.nodePluginColorBox = new ReClassNET.Controls.ColorBox();
+            this.nodeHexValueColorBox = new DeClassNet.Controls.ColorBox();
+            this.nodePluginColorBox = new DeClassNet.Controls.ColorBox();
             this.nodeHexValueLabel = new System.Windows.Forms.Label();
             this.nodeVTableLabel = new System.Windows.Forms.Label();
-            this.nodeOffsetColorBox = new ReClassNET.Controls.ColorBox();
-            this.nodeVTableColorBox = new ReClassNET.Controls.ColorBox();
+            this.nodeOffsetColorBox = new DeClassNet.Controls.ColorBox();
+            this.nodeVTableColorBox = new DeClassNet.Controls.ColorBox();
             this.nodeOffsetLabel = new System.Windows.Forms.Label();
             this.nodeTextLabel = new System.Windows.Forms.Label();
-            this.nodeAddressColorBox = new ReClassNET.Controls.ColorBox();
-            this.nodeTextColorBox = new ReClassNET.Controls.ColorBox();
+            this.nodeAddressColorBox = new DeClassNet.Controls.ColorBox();
+            this.nodeTextColorBox = new DeClassNet.Controls.ColorBox();
             this.nodeAddressLabel = new System.Windows.Forms.Label();
             this.nodeCommentLabel = new System.Windows.Forms.Label();
-            this.nodeHiddenColorBox = new ReClassNET.Controls.ColorBox();
-            this.nodeCommentColorBox = new ReClassNET.Controls.ColorBox();
+            this.nodeHiddenColorBox = new DeClassNet.Controls.ColorBox();
+            this.nodeCommentColorBox = new DeClassNet.Controls.ColorBox();
             this.nodeHiddenLabel = new System.Windows.Forms.Label();
             this.nodeIndexLabel = new System.Windows.Forms.Label();
-            this.nodeSelectedColorBox = new ReClassNET.Controls.ColorBox();
-            this.nodeIndexColorBox = new ReClassNET.Controls.ColorBox();
+            this.nodeSelectedColorBox = new DeClassNet.Controls.ColorBox();
+            this.nodeIndexColorBox = new DeClassNet.Controls.ColorBox();
             this.nodeSelectedLabel = new System.Windows.Forms.Label();
-            this.nodeTypeColorBox = new ReClassNET.Controls.ColorBox();
-            this.nodeValueColorBox = new ReClassNET.Controls.ColorBox();
+            this.nodeTypeColorBox = new DeClassNet.Controls.ColorBox();
+            this.nodeValueColorBox = new DeClassNet.Controls.ColorBox();
             this.nodeTypeLabel = new System.Windows.Forms.Label();
             this.nodeNameLabel = new System.Windows.Forms.Label();
-            this.nodeNameColorBox = new ReClassNET.Controls.ColorBox();
+            this.nodeNameColorBox = new DeClassNet.Controls.ColorBox();
             this.backgroundLabel = new System.Windows.Forms.Label();
-            this.backgroundColorBox = new ReClassNET.Controls.ColorBox();
+            this.backgroundColorBox = new DeClassNet.Controls.ColorBox();
             this.typeDefinitionsSettingsTabPage = new System.Windows.Forms.TabPage();
             this.nuintSettingsLabel = new System.Windows.Forms.Label();
             this.nuintTypeTextBox = new System.Windows.Forms.TextBox();
@@ -128,7 +128,7 @@ namespace ReClassNET.Forms
             this.int16TypeTextBox = new System.Windows.Forms.TextBox();
             this.int8SettingsLabel = new System.Windows.Forms.Label();
             this.int8TypeTextBox = new System.Windows.Forms.TextBox();
-            this.bannerBox = new ReClassNET.Controls.BannerBox();
+            this.bannerBox = new DeClassNet.Controls.BannerBox();
             this.utf32TextSettingsLabel = new System.Windows.Forms.Label();
             this.utf32TextTypeTextBox = new System.Windows.Forms.TextBox();
             this.settingsTabControl.SuspendLayout();
@@ -207,8 +207,8 @@ namespace ReClassNET.Forms
             this.associationInfoLabel.Name = "associationInfoLabel";
             this.associationInfoLabel.Size = new System.Drawing.Size(525, 28);
             this.associationInfoLabel.TabIndex = 0;
-            this.associationInfoLabel.Text = "RCNET files can be associated with ReClass.NET. When you double-click a RCNET fil" +
-    "e, they will automatically be opened by ReClass.NET.";
+            this.associationInfoLabel.Text = "RCNET files can be associated with DeClass.NET. When you double-click a RCNET fil" +
+    "e, they will automatically be opened by DeClass.NET.";
             // 
             // commentsGroupBox
             // 
@@ -378,7 +378,7 @@ namespace ReClassNET.Forms
             this.stayOnTopCheckBox.Name = "stayOnTopCheckBox";
             this.stayOnTopCheckBox.Size = new System.Drawing.Size(187, 17);
             this.stayOnTopCheckBox.TabIndex = 1;
-            this.stayOnTopCheckBox.Text = "Force ReClass.NET to stay on top";
+            this.stayOnTopCheckBox.Text = "Force DeClass.NET to stay on top";
             this.stayOnTopCheckBox.UseVisualStyleBackColor = true;
             // 
             // colorsSettingTabPage
@@ -1088,7 +1088,7 @@ namespace ReClassNET.Forms
             // bannerBox
             // 
             this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-            this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B32x32_Cogs;
+            this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B32x32_Cogs;
             this.bannerBox.Location = new System.Drawing.Point(0, 0);
             this.bannerBox.Name = "bannerBox";
             this.bannerBox.Size = new System.Drawing.Size(586, 48);
@@ -1125,7 +1125,7 @@ namespace ReClassNET.Forms
             this.Name = "SettingsForm";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "ReClass.NET - Settings";
+            this.Text = "DeClass.NET - Settings";
             this.settingsTabControl.ResumeLayout(false);
             this.generalSettingsTabPage.ResumeLayout(false);
             this.generalSettingsTabPage.PerformLayout();

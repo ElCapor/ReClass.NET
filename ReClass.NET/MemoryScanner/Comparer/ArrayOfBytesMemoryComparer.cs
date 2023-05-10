@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.MemoryScanner.Comparer
+namespace DeClassNet.MemoryScanner.Comparer
 {
 	public class ArrayOfBytesMemoryComparer : ISimpleScanComparer
 	{

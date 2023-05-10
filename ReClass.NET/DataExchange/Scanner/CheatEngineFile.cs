@@ -4,10 +4,10 @@ using System.Globalization;
 using System.IO;
 using System.Text;
 using System.Xml.Linq;
-using ReClassNET.Logger;
-using ReClassNET.MemoryScanner;
+using DeClassNet.Logger;
+using DeClassNet.MemoryScanner;
 
-namespace ReClassNET.DataExchange.Scanner
+namespace DeClassNet.DataExchange.Scanner
 {
 	public class CheatEngineFile : IScannerImport
 	{

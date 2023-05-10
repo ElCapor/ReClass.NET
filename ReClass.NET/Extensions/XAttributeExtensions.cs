@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Linq;
 
-namespace ReClassNET.Extensions
+namespace DeClassNet.Extensions
 {
 	public static class XAttributeExtensions
 	{

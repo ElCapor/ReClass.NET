@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Nodes;
-using ReClassNET.UI;
+using DeClassNet.Nodes;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class ClassSelectionForm : IconForm
 	{

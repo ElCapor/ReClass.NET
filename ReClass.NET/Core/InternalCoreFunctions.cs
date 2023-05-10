@@ -2,11 +2,11 @@
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
-using ReClassNET.Extensions;
-using ReClassNET.Native;
-using ReClassNET.Util;
+using DeClassNet.Extensions;
+using DeClassNet.Native;
+using DeClassNet.Util;
 
-namespace ReClassNET.Core
+namespace DeClassNet.Core
 {
 	public delegate bool EnumerateInstructionCallback(ref InstructionData data);
 

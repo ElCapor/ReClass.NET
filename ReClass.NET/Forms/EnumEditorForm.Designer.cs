@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class EnumEditorForm
 	{
@@ -40,7 +40,7 @@ namespace ReClassNET.Forms
 			this.enumValueKeyColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.enumValueNameColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.enumUnderlyingTypeSizeLabel = new System.Windows.Forms.Label();
-			this.enumUnderlyingTypeSizeComboBox = new ReClassNET.Forms.UnderlyingSizeComboBox();
+			this.enumUnderlyingTypeSizeComboBox = new DeClassNet.Forms.UnderlyingSizeComboBox();
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).BeginInit();
 			((System.ComponentModel.ISupportInitialize)(this.enumDataGridView)).BeginInit();
 			this.SuspendLayout();
@@ -48,7 +48,7 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B16x16_Class_Type;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B16x16_Class_Type;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(380, 48);
@@ -171,7 +171,7 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.bannerBox);
 			this.MinimumSize = new System.Drawing.Size(396, 321);
 			this.Name = "EnumEditorForm";
-			this.Text = "ReClass.NET - Enum Editor";
+			this.Text = "DeClass.NET - Enum Editor";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			((System.ComponentModel.ISupportInitialize)(this.enumDataGridView)).EndInit();
 			this.ResumeLayout(false);

@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Runtime.InteropServices;
-using ReClassNET.Core;
-using ReClassNET.Memory;
+using DeClassNet.Core;
+using DeClassNet.Memory;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	public class PatternScanner
 	{

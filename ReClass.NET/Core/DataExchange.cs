@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using ReClassNET.Memory;
+using DeClassNet.Memory;
 
-namespace ReClassNET.Core
+namespace DeClassNet.Core
 {
 	public enum ProcessAccess
 	{

@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	[StructLayout(LayoutKind.Explicit)]
 	public struct UInt8Data

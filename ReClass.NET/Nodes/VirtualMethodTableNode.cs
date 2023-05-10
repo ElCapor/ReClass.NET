@@ -1,11 +1,11 @@
 using System;
 using System.Drawing;
 using System.Linq;
-using ReClassNET.Controls;
-using ReClassNET.Memory;
-using ReClassNET.UI;
+using DeClassNet.Controls;
+using DeClassNet.Memory;
+using DeClassNet.UI;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class VirtualMethodTableNode : BaseContainerNode
 	{

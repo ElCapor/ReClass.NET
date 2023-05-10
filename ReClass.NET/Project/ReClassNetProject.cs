@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
-using ReClassNET.Nodes;
-using ReClassNET.Util;
+using DeClassNet.Nodes;
+using DeClassNet.Util;
 
-namespace ReClassNET.Project
+namespace DeClassNet.Project
 {
 	public class ReClassNetProject : IDisposable
 	{

@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace ReClassNET.UI
+namespace DeClassNet.UI
 {
 	public class IconProvider
 	{

@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public class PlaceholderTextBox : TextBox
 	{

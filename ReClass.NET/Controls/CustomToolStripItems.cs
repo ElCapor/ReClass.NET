@@ -2,7 +2,7 @@ using System;
 using System.Windows.Forms;
 using System.Windows.Forms.Design;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	[ToolStripItemDesignerAvailability(ToolStripItemDesignerAvailability.All)]
 	public class IntegerToolStripMenuItem : ToolStripMenuItem

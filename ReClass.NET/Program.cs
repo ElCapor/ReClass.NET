@@ -4,15 +4,15 @@ using System.Drawing;
 using System.Globalization;
 using System.Windows.Forms;
 using Microsoft.SqlServer.MessageBox;
-using ReClassNET.Core;
-using ReClassNET.Forms;
-using ReClassNET.Logger;
-using ReClassNET.Memory;
-using ReClassNET.Native;
-using ReClassNET.UI;
-using ReClassNET.Util;
+using DeClassNet.Core;
+using DeClassNet.Forms;
+using DeClassNet.Logger;
+using DeClassNet.Memory;
+using DeClassNet.Native;
+using DeClassNet.UI;
+using DeClassNet.Util;
 
-namespace ReClassNET
+namespace DeClassNet
 {
 	public static class Program
 	{

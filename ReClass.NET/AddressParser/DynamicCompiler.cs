@@ -2,10 +2,10 @@ using System;
 using System.Diagnostics.Contracts;
 using System.Linq.Expressions;
 using System.Reflection;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
 
-namespace ReClassNET.AddressParser
+namespace DeClassNet.AddressParser
 {
 	public class DynamicCompiler : IExecutor
 	{

@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
-using ReClassNET.Memory;
-using ReClassNET.UI;
+using DeClassNet.Memory;
+using DeClassNet.UI;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public class DrawContext
 	{

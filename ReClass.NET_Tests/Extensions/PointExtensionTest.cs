@@ -1,9 +1,9 @@
 ﻿using System.Drawing;
 using NFluent;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 using Xunit;
 
-namespace ReClass.NET_Tests.Extensions
+namespace DeClass.NET_Tests.Extensions
 {
 	public class PointExtensionTest
 	{

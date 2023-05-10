@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	public enum SettingState
 	{

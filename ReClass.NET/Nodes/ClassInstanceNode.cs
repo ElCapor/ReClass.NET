@@ -1,9 +1,9 @@
 using System;
 using System.Drawing;
-using ReClassNET.Controls;
-using ReClassNET.UI;
+using DeClassNet.Controls;
+using DeClassNet.UI;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class ClassInstanceNode : BaseClassWrapperNode
 	{

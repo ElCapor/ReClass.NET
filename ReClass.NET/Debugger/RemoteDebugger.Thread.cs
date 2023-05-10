@@ -2,7 +2,7 @@
 using System.Diagnostics.Contracts;
 using System.Threading;
 
-namespace ReClassNET.Debugger
+namespace DeClassNet.Debugger
 {
 	public partial class RemoteDebugger
 	{

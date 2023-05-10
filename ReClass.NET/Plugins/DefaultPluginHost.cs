@@ -1,10 +1,10 @@
 using System.Diagnostics.Contracts;
 using System.Resources;
-using ReClassNET.Forms;
-using ReClassNET.Logger;
-using ReClassNET.Memory;
+using DeClassNet.Forms;
+using DeClassNet.Logger;
+using DeClassNet.Memory;
 
-namespace ReClassNET.Plugins
+namespace DeClassNet.Plugins
 {
 	internal sealed class DefaultPluginHost : IPluginHost
 	{

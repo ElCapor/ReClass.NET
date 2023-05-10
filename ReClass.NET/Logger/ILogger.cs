@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Logger
+namespace DeClassNet.Logger
 {
 	public delegate void NewLogEntryEventHandler(LogLevel level, string message, Exception ex);
 

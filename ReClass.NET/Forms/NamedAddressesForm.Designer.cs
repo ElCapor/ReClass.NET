@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class NamedAddressesForm
 	{
@@ -42,7 +42,7 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B16x16_Custom_Type;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B16x16_Custom_Type;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(429, 48);
@@ -86,7 +86,7 @@ namespace ReClassNET.Forms
 			// 
 			this.removeAddressIconButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.removeAddressIconButton.Enabled = false;
-			this.removeAddressIconButton.Image = global::ReClassNET.Properties.Resources.B16x16_Button_Remove;
+			this.removeAddressIconButton.Image = global::DeClassNet.Properties.Resources.B16x16_Button_Remove;
 			this.removeAddressIconButton.Location = new System.Drawing.Point(394, 54);
 			this.removeAddressIconButton.Name = "removeAddressIconButton";
 			this.removeAddressIconButton.Pressed = false;
@@ -99,7 +99,7 @@ namespace ReClassNET.Forms
 			// 
 			this.addAddressIconButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.addAddressIconButton.Enabled = false;
-			this.addAddressIconButton.Image = global::ReClassNET.Properties.Resources.B16x16_Button_Add;
+			this.addAddressIconButton.Image = global::DeClassNet.Properties.Resources.B16x16_Button_Add;
 			this.addAddressIconButton.Location = new System.Drawing.Point(369, 54);
 			this.addAddressIconButton.Name = "addAddressIconButton";
 			this.addAddressIconButton.Pressed = false;
@@ -121,7 +121,7 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.bannerBox);
 			this.MinimumSize = new System.Drawing.Size(445, 317);
 			this.Name = "NamedAddressesForm";
-			this.Text = "ReClass.NET - Named Addresses";
+			this.Text = "DeClass.NET - Named Addresses";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();

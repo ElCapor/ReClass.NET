@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
-using ReClassNET.Extensions;
-using ReClassNET.Nodes;
+using DeClassNet.Extensions;
+using DeClassNet.Nodes;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public class NodeDissector
 	{

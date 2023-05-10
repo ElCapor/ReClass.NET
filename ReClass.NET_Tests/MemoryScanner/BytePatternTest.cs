@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using NFluent;
-using ReClassNET.MemoryScanner;
+using DeClassNet.MemoryScanner;
 using Xunit;
 
-namespace ReClass.NET_Tests.MemoryScanner
+namespace DeClass.NET_Tests.MemoryScanner
 {
 	public class BytePatternTest
 	{

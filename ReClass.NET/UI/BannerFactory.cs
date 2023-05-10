@@ -6,7 +6,7 @@ using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.Linq;
 
-namespace ReClassNET.UI
+namespace DeClassNet.UI
 {
 	public static class BannerFactory
 	{

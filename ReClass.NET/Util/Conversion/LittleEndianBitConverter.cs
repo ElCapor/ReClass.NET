@@ -1,6 +1,6 @@
 using System;
 
-namespace ReClassNET.Util.Conversion
+namespace DeClassNet.Util.Conversion
 {
 	public sealed class LittleEndianBitConverter : EndianBitConverter
 	{

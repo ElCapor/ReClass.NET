@@ -1,7 +1,7 @@
 using System;
-using ReClassNET.Util.Conversion;
+using DeClassNet.Util.Conversion;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public interface IRemoteMemoryReader
 	{

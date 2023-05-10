@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
-using ReClassNET.Util;
+using DeClassNet.Util;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class ClassUtil
 	{

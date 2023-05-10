@@ -1,4 +1,4 @@
-namespace ReClassNET.MemoryScanner.Comparer
+namespace DeClassNet.MemoryScanner.Comparer
 {
 	public interface IScanComparer
 	{

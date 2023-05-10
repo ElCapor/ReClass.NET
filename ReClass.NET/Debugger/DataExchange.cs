@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace ReClassNET.Debugger
+namespace DeClassNet.Debugger
 {
 	[StructLayout(LayoutKind.Sequential, Pack = 1)]
 	public struct ExceptionDebugInfo

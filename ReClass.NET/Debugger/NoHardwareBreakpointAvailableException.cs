@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReClassNET.Debugger
+namespace DeClassNet.Debugger
 {
 	public class NoHardwareBreakpointAvailableException : Exception
 	{

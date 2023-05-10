@@ -3,9 +3,9 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
-using ReClassNET.Native;
+using DeClassNet.Native;
 
-namespace ReClassNET.UI
+namespace DeClassNet.UI
 {
 	public static class DpiUtil
 	{

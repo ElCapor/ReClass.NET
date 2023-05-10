@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class EnumListForm
 	{
@@ -65,7 +65,7 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B16x16_Class_Type;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B16x16_Class_Type;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(516, 48);
@@ -76,7 +76,7 @@ namespace ReClassNET.Forms
 			// addEnumIconButton
 			// 
 			this.addEnumIconButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-			this.addEnumIconButton.Image = global::ReClassNET.Properties.Resources.B16x16_Button_Add;
+			this.addEnumIconButton.Image = global::DeClassNet.Properties.Resources.B16x16_Button_Add;
 			this.addEnumIconButton.Location = new System.Drawing.Point(456, 59);
 			this.addEnumIconButton.Name = "addEnumIconButton";
 			this.addEnumIconButton.Pressed = false;
@@ -89,7 +89,7 @@ namespace ReClassNET.Forms
 			// 
 			this.removeEnumIconButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.removeEnumIconButton.Enabled = false;
-			this.removeEnumIconButton.Image = global::ReClassNET.Properties.Resources.B16x16_Button_Remove;
+			this.removeEnumIconButton.Image = global::DeClassNet.Properties.Resources.B16x16_Button_Remove;
 			this.removeEnumIconButton.Location = new System.Drawing.Point(481, 59);
 			this.removeEnumIconButton.Name = "removeEnumIconButton";
 			this.removeEnumIconButton.Pressed = false;
@@ -102,7 +102,7 @@ namespace ReClassNET.Forms
 			// 
 			this.editEnumIconButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
 			this.editEnumIconButton.Enabled = false;
-			this.editEnumIconButton.Image = global::ReClassNET.Properties.Resources.B16x16_Custom_Type;
+			this.editEnumIconButton.Image = global::DeClassNet.Properties.Resources.B16x16_Custom_Type;
 			this.editEnumIconButton.Location = new System.Drawing.Point(431, 59);
 			this.editEnumIconButton.Name = "editEnumIconButton";
 			this.editEnumIconButton.Pressed = false;
@@ -124,7 +124,7 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.bannerBox);
 			this.Name = "EnumListForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Enums";
+			this.Text = "DeClass.NET - Enums";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();

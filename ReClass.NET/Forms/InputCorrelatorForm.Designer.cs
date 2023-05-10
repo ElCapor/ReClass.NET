@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class InputCorrelatorForm
 	{
@@ -36,7 +36,7 @@ namespace ReClassNET.Forms
 			this.settingsGroupBox = new System.Windows.Forms.GroupBox();
 			this.removeButton = new System.Windows.Forms.Button();
 			this.addButton = new System.Windows.Forms.Button();
-			this.valueTypeComboBox = new ReClassNET.Forms.ScannerForm.ScanValueTypeComboBox();
+			this.valueTypeComboBox = new DeClassNet.Forms.ScannerForm.ScanValueTypeComboBox();
 			this.label1 = new System.Windows.Forms.Label();
 			this.hotkeyListBox = new System.Windows.Forms.ListBox();
 			this.hotkeyBox = new HotkeyBox();
@@ -54,7 +54,7 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B32x32_Canvas_Size;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B32x32_Canvas_Size;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(301, 48);

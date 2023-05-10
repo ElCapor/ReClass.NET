@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 using System.Xml.Linq;
-using ReClassNET.Logger;
-using ReClassNET.MemoryScanner;
+using DeClassNet.Logger;
+using DeClassNet.MemoryScanner;
 
-namespace ReClassNET.DataExchange.Scanner
+namespace DeClassNet.DataExchange.Scanner
 {
 	public class CrySearchFile : IScannerImport
 	{

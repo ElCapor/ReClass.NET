@@ -1,8 +1,8 @@
 using System.Drawing;
 using System.Text;
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class Utf16TextPtrNode : BaseTextPtrNode
 	{

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Extensions
+namespace DeClassNet.Extensions
 {
 	public static class ListExtension
 	{

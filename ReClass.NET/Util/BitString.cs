@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public static class BitString
 	{

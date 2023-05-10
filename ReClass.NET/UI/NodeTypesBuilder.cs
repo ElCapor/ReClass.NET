@@ -4,11 +4,11 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Controls;
-using ReClassNET.Nodes;
-using ReClassNET.Plugins;
+using DeClassNet.Controls;
+using DeClassNet.Nodes;
+using DeClassNet.Plugins;
 
-namespace ReClassNET.UI
+namespace DeClassNet.UI
 {
 	internal static class NodeTypesBuilder
 	{

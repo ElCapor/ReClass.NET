@@ -7,15 +7,15 @@ using System.Text;
 using System.Windows.Forms;
 using ColorCode;
 using ColorCode.Parsing;
-using ReClassNET.CodeGenerator;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
-using ReClassNET.UI;
-using ReClassNET.Util.Rtf;
+using DeClassNet.CodeGenerator;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
+using DeClassNet.UI;
+using DeClassNet.Util.Rtf;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class CodeForm : IconForm
 	{

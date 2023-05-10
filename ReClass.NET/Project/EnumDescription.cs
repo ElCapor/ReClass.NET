@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ReClassNET.Project
+namespace DeClassNet.Project
 {
 	public class EnumDescription
 	{

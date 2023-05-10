@@ -1,8 +1,8 @@
 using System;
 using System.Text;
-using ReClassNET.Util.Conversion;
+using DeClassNet.Util.Conversion;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public interface IRemoteMemoryWriter
 	{

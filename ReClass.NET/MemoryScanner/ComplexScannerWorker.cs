@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading;
-using ReClassNET.MemoryScanner.Comparer;
+using DeClassNet.MemoryScanner.Comparer;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	internal class ComplexScannerWorker : IScannerWorker
 	{

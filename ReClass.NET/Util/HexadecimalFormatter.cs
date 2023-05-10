@@ -1,6 +1,6 @@
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public static class HexadecimalFormatter
 	{

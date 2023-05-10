@@ -5,7 +5,7 @@ using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Reflection;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public class EnumDescriptionDisplay<TEnum> where TEnum : struct
 	{

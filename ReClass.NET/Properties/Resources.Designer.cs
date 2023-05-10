@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ReClassNET.Properties {
+namespace DeClassNet.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace ReClassNET.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ReClassNET.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DeClassNet.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -1371,7 +1371,7 @@ namespace ReClassNET.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 2020/10/17 09:45:04
+        ///   Looks up a localized string similar to 2023/05/10 03:20:23
         ///.
         /// </summary>
         internal static string BuildDate {

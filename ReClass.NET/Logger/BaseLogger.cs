@@ -2,7 +2,7 @@
 using System;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Logger
+namespace DeClassNet.Logger
 {
 	public abstract class BaseLogger : ILogger
 	{

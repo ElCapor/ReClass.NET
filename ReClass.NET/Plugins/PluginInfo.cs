@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Diagnostics.Contracts;
 using System.IO;
-using ReClassNET.Extensions;
-using ReClassNET.Native;
-using ReClassNET.Nodes;
+using DeClassNet.Extensions;
+using DeClassNet.Native;
+using DeClassNet.Nodes;
 
-namespace ReClassNET.Plugins
+namespace DeClassNet.Plugins
 {
 	internal class PluginInfo : IDisposable
 	{
-		public const string PluginName = "ReClass.NET Plugin";
-		public const string PluginNativeName = "ReClass.NET Native Plugin";
+		public const string PluginName = "DeClass.NET Plugin";
+		public const string PluginNativeName = "DeClass.NET Native Plugin";
 
 		public string FilePath { get; }
 

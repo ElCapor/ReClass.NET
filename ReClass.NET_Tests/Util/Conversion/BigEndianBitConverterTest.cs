@@ -1,9 +1,9 @@
 using System;
 using NFluent;
-using ReClassNET.Util.Conversion;
+using DeClassNet.Util.Conversion;
 using Xunit;
 
-namespace ReClass.NET_Tests.Util.Conversion
+namespace DeClass.NET_Tests.Util.Conversion
 {
 	public class BigEndianBitConverterTest
 	{

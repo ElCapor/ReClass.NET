@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Runtime.InteropServices;
-using ReClassNET.Core;
-using ReClassNET.Extensions;
+using DeClassNet.Core;
+using DeClassNet.Extensions;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public class Disassembler
 	{

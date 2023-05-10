@@ -1,4 +1,4 @@
-﻿namespace ReClassNET.Nodes
+﻿namespace DeClassNet.Nodes
 {
 	public abstract class BaseClassWrapperNode : BaseWrapperNode
 	{

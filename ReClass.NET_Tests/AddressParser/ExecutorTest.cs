@@ -2,12 +2,12 @@ using System;
 using System.Collections.Generic;
 using Moq;
 using NFluent;
-using ReClassNET.AddressParser;
-using ReClassNET.Memory;
-using ReClassNET.Util.Conversion;
+using DeClassNet.AddressParser;
+using DeClassNet.Memory;
+using DeClassNet.Util.Conversion;
 using Xunit;
 
-namespace ReClass.NET_Tests.AddressParser
+namespace DeClass.NET_Tests.AddressParser
 {
 	public abstract class ExecutorTest
 	{

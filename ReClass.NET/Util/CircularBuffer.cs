@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	/// <summary>
 	/// A circular buffer with a fixed size.

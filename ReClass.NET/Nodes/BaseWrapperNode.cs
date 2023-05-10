@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public abstract class BaseWrapperNode : BaseNode
 	{

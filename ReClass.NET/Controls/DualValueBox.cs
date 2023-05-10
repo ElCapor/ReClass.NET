@@ -2,7 +2,7 @@ using System.ComponentModel;
 using System.Windows.Forms;
 using System.Windows.Forms.Design;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	[Designer(typeof(DualValueControlDesigner))]
 	public partial class DualValueBox : UserControl

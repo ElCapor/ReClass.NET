@@ -1,10 +1,10 @@
 using System;
 using System.Diagnostics.Contracts;
 using System.Text;
-using ReClassNET.Memory;
-using ReClassNET.MemoryScanner;
+using DeClassNet.Memory;
+using DeClassNet.MemoryScanner;
 
-namespace ReClassNET.Extensions
+namespace DeClassNet.Extensions
 {
 	public static class IRemoteMemoryReaderExtension
 	{

@@ -3,9 +3,9 @@ using System.ComponentModel;
 using System.Linq;
 using System.Windows.Forms;
 using System.Windows.Forms.Design;
-using ReClassNET.Input;
+using DeClassNet.Input;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	[Designer(typeof(HotkeyBoxDesigner))]
 	public partial class HotkeyBox : UserControl

@@ -1,4 +1,4 @@
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	partial class HotkeyBox
 	{
@@ -54,7 +54,7 @@ namespace ReClassNET.Controls
 			// clearButton
 			// 
 			this.clearButton.Anchor = System.Windows.Forms.AnchorStyles.Right;
-			this.clearButton.Image = global::ReClassNET.Properties.Resources.B16x16_Button_Delete;
+			this.clearButton.Image = global::DeClassNet.Properties.Resources.B16x16_Button_Delete;
 			this.clearButton.Location = new System.Drawing.Point(142, 0);
 			this.clearButton.Name = "clearButton";
 			this.clearButton.Size = new System.Drawing.Size(20, 20);

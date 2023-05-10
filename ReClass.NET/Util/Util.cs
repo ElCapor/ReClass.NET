@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public static class Utils
 	{

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public interface IProcessReader : IRemoteMemoryReader
 	{

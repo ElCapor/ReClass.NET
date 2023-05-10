@@ -1,7 +1,7 @@
 using System.Drawing;
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class FunctionPtrNode : BaseFunctionPtrNode
 	{

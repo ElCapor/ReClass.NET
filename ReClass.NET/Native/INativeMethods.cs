@@ -2,7 +2,7 @@
 using System.Diagnostics.Contracts;
 using System.Drawing;
 
-namespace ReClassNET.Native
+namespace DeClassNet.Native
 {
 	[ContractClass(typeof(NativeMethodsContract))]
 	internal interface INativeMethods

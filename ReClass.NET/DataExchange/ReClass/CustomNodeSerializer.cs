@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Xml.Linq;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
 
-namespace ReClassNET.DataExchange.ReClass
+namespace DeClassNet.DataExchange.ReClass
 {
 	public delegate BaseNode CreateNodeFromElementHandler(XElement element, BaseNode parent, ILogger logger);
 	public delegate XElement CreateElementFromNodeHandler(BaseNode node, ILogger logger);

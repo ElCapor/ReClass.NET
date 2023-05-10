@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics.Contracts;
-using ReClassNET.Logger;
-using ReClassNET.MemoryScanner;
+using DeClassNet.Logger;
+using DeClassNet.MemoryScanner;
 
-namespace ReClassNET.DataExchange.Scanner
+namespace DeClassNet.DataExchange.Scanner
 {
 	[ContractClass(typeof(ScannerExportContract))]
 	public interface IScannerExport

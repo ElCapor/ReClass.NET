@@ -3,7 +3,7 @@ using System.Diagnostics.Contracts;
 using System.IO;
 using System.Reflection;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public class PathUtil
 	{
@@ -68,7 +68,7 @@ namespace ReClassNET.Util
 		});
 
 		/// <summary>Gets the full pathname of the settings folder.</summary>
-		/// <remarks>%localappdata%\ReClass.NET\</remarks>
+		/// <remarks>%localappdata%\DeClass.NET\</remarks>
 		public static string SettingsFolderPath => settingsFolderPath.Value;
 
 		private static readonly Lazy<string> launcherExecutablePath = new Lazy<string>(() =>

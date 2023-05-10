@@ -1,10 +1,10 @@
 ﻿using System;
 using NFluent;
-using ReClassNET.MemoryScanner;
-using ReClassNET.MemoryScanner.Comparer;
+using DeClassNet.MemoryScanner;
+using DeClassNet.MemoryScanner.Comparer;
 using Xunit;
 
-namespace ReClass.NET_Tests.MemoryScanner.Comparer
+namespace DeClass.NET_Tests.MemoryScanner.Comparer
 {
 	public class ByteMemoryComparerTest
 	{

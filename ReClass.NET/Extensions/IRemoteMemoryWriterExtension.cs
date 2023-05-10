@@ -1,8 +1,8 @@
 using System;
 using System.Text;
-using ReClassNET.Memory;
+using DeClassNet.Memory;
 
-namespace ReClassNET.Extensions
+namespace DeClassNet.Extensions
 {
 	public static class IRemoteMemoryWriterExtension
 	{

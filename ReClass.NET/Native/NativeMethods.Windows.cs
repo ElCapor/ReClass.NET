@@ -6,10 +6,10 @@ using System.Security.Principal;
 using System.Text;
 using System.Windows.Forms;
 using Microsoft.Win32;
-using ReClassNET.Extensions;
-using ReClassNET.Util;
+using DeClassNet.Extensions;
+using DeClassNet.Util;
 
-namespace ReClassNET.Native
+namespace DeClassNet.Native
 {
 	internal class NativeMethodsWindows : INativeMethods
 	{

@@ -1,7 +1,7 @@
 using System.Xml.Linq;
-using ReClassNET.Util;
+using DeClassNet.Util;
 
-namespace ReClassNET.Project
+namespace DeClassNet.Project
 {
 	public class CppTypeMapping
 	{

@@ -7,23 +7,23 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ReClassNET.AddressParser;
-using ReClassNET.CodeGenerator;
-using ReClassNET.Controls;
-using ReClassNET.Core;
-using ReClassNET.DataExchange.ReClass;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.MemoryScanner;
-using ReClassNET.MemoryScanner.Comparer;
-using ReClassNET.Nodes;
-using ReClassNET.Plugins;
-using ReClassNET.Project;
-using ReClassNET.UI;
-using ReClassNET.Util;
-using ReClassNET.Util.Conversion;
+using DeClassNet.AddressParser;
+using DeClassNet.CodeGenerator;
+using DeClassNet.Controls;
+using DeClassNet.Core;
+using DeClassNet.DataExchange.ReClass;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.MemoryScanner;
+using DeClassNet.MemoryScanner.Comparer;
+using DeClassNet.Nodes;
+using DeClassNet.Plugins;
+using DeClassNet.Project;
+using DeClassNet.UI;
+using DeClassNet.Util;
+using DeClassNet.Util.Conversion;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class MainForm : IconForm
 	{

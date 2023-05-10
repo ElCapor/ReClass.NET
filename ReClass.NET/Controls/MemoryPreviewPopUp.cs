@@ -5,12 +5,12 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.Nodes;
-using ReClassNET.UI;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.Nodes;
+using DeClassNet.UI;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	[ToolboxItem(false)]
 	public class MemoryPreviewPopUp : ToolStripDropDown

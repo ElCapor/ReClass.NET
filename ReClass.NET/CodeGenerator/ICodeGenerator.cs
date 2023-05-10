@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.CodeGenerator
+namespace DeClassNet.CodeGenerator
 {
 	[ContractClass(typeof(CodeGeneratorContract))]
 	public interface ICodeGenerator

@@ -1,6 +1,6 @@
-﻿using ReClassNET.Nodes;
+﻿using DeClassNet.Nodes;
 
-namespace ReClassNET.DataExchange.ReClass.Legacy
+namespace DeClassNet.DataExchange.ReClass.Legacy
 {
 	public class ClassInstanceArrayNode : BaseClassArrayNode
 	{

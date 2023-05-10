@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Runtime.InteropServices;
 
-namespace ReClassNET.Native
+namespace DeClassNet.Native
 {
 	internal class NativeMethodsUnix : INativeMethods
 	{

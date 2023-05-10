@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public class DirectedGraph<T>
 	{

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Xml.Linq;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	/// <summary>
 	/// A class which stores custom data items from plugins.

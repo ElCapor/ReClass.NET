@@ -2,7 +2,7 @@
 using System.Diagnostics.Contracts;
 using System.Drawing;
 
-namespace ReClassNET.Extensions
+namespace DeClassNet.Extensions
 {
 	public static class PointExtension
 	{

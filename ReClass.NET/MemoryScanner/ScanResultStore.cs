@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.IO;
 using System.Text;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	/// <summary>
 	/// The store of all found scan results. If the result count exceed the <see cref="MaximumMemoryResultsCount"/> limit,
@@ -38,7 +38,7 @@ namespace ReClassNET.MemoryScanner
 		public ScanResultStore(ScanValueType valueType, string storePath)
 		{
 			this.valueType = valueType;
-			this.storePath = Path.Combine(storePath, $"ReClass.NET_MemoryScanner_{Guid.NewGuid()}.tmp");
+			this.storePath = Path.Combine(storePath, $"DeClass.NET_MemoryScanner_{Guid.NewGuid()}.tmp");
 		}
 
 		public void Dispose()

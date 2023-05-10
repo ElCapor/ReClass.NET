@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using NFluent;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 using Xunit;
 
-namespace ReClass.NET_Tests.Extensions
+namespace DeClass.NET_Tests.Extensions
 {
 	public class EncodingExtensionTest
 	{

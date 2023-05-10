@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Diagnostics.Contracts;
 using System.IO;
-using ReClassNET.CodeGenerator;
-using ReClassNET.Core;
-using ReClassNET.DataExchange.ReClass;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Native;
-using ReClassNET.Nodes;
-using ReClassNET.UI;
+using DeClassNet.CodeGenerator;
+using DeClassNet.Core;
+using DeClassNet.DataExchange.ReClass;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Native;
+using DeClassNet.Nodes;
+using DeClassNet.UI;
 
-namespace ReClassNET.Plugins
+namespace DeClassNet.Plugins
 {
 	internal sealed class PluginManager
 	{

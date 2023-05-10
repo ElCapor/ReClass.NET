@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace ReClassNET.Core
+namespace DeClassNet.Core
 {
 	public interface IInternalCoreFunctions
 	{

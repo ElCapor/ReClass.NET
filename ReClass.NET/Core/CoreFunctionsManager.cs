@@ -4,11 +4,11 @@ using System.Diagnostics.Contracts;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Debugger;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
+using DeClassNet.Debugger;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
 
-namespace ReClassNET.Core
+namespace DeClassNet.Core
 {
 	public class CoreFunctionsManager : IDisposable
 	{

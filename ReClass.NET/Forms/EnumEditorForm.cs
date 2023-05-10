@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Controls;
-using ReClassNET.Project;
-using ReClassNET.UI;
+using DeClassNet.Controls;
+using DeClassNet.Project;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class EnumEditorForm : IconForm
 	{

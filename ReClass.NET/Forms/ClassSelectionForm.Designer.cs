@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class ClassSelectionForm
 	{
@@ -41,7 +41,7 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B16x16_Class_Type;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B16x16_Class_Type;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(516, 48);
@@ -111,7 +111,7 @@ namespace ReClassNET.Forms
 			this.Controls.Add(this.bannerBox);
 			this.Name = "ClassSelectionForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Class Selection";
+			this.Text = "DeClass.NET - Class Selection";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.ResumeLayout(false);
 			this.PerformLayout();

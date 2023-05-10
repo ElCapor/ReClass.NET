@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReClassNET.AddressParser
+namespace DeClassNet.AddressParser
 {
 	public class ParseException : Exception
 	{

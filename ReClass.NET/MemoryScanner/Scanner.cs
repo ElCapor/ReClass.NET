@@ -5,12 +5,12 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.MemoryScanner.Comparer;
-using ReClassNET.Util;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.MemoryScanner.Comparer;
+using DeClassNet.Util;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	public class Scanner : IDisposable
 	{

@@ -1,8 +1,8 @@
 using System;
 using System.Diagnostics;
-using ReClassNET.Util.Conversion;
+using DeClassNet.Util.Conversion;
 
-namespace ReClassNET.MemoryScanner.Comparer
+namespace DeClassNet.MemoryScanner.Comparer
 {
 	public class LongMemoryComparer : ISimpleScanComparer
 	{

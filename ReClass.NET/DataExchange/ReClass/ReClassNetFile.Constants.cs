@@ -1,8 +1,8 @@
-﻿namespace ReClassNET.DataExchange.ReClass
+﻿namespace DeClassNet.DataExchange.ReClass
 {
 	public partial class ReClassNetFile
 	{
-		public const string FormatName = "ReClass.NET File";
+		public const string FormatName = "DeClass.NET File";
 		public const string FileExtension = ".rcnet";
 		public const string FileExtensionId = "rcnetfile";
 

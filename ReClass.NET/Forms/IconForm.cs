@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public class IconForm : Form
 	{

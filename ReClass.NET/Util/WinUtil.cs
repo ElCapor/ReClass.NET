@@ -4,7 +4,7 @@ using System.Diagnostics.Contracts;
 using System.Security.Principal;
 using Microsoft.Win32;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public static class WinUtil
 	{

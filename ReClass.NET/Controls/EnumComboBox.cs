@@ -3,9 +3,9 @@ using System.ComponentModel;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public class EnumComboBox<TEnum> : ComboBox where TEnum : struct
 	{

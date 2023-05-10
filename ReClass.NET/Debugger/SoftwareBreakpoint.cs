@@ -1,8 +1,8 @@
 ﻿using System;
-using ReClassNET.Memory;
+using DeClassNet.Memory;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Debugger
+namespace DeClassNet.Debugger
 {
 	public sealed class SoftwareBreakpoint : IBreakpoint
 	{

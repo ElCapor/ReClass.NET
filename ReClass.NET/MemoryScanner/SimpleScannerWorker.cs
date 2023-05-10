@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Threading;
-using ReClassNET.MemoryScanner.Comparer;
+using DeClassNet.MemoryScanner.Comparer;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	internal class SimpleScannerWorker : IScannerWorker
 	{

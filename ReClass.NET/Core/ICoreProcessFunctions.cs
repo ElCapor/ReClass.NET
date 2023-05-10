@@ -1,7 +1,7 @@
 ﻿using System;
-using ReClassNET.Debugger;
+using DeClassNet.Debugger;
 
-namespace ReClassNET.Core
+namespace DeClassNet.Core
 {
 	public delegate void EnumerateProcessCallback(ref EnumerateProcessData data);
 	public delegate void EnumerateRemoteSectionCallback(ref EnumerateRemoteSectionData data);

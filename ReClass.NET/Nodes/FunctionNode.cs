@@ -2,12 +2,12 @@ using System;
 using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
-using ReClassNET.Controls;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.UI;
+using DeClassNet.Controls;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.UI;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class FunctionNode : BaseFunctionNode
 	{

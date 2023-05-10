@@ -1,6 +1,6 @@
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	internal class ScannerContext
 	{

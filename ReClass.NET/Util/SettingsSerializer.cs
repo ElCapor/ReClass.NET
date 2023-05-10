@@ -2,7 +2,7 @@ using System.Diagnostics.Contracts;
 using System.IO;
 using System.Xml.Linq;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	internal sealed class SettingsSerializer
 	{

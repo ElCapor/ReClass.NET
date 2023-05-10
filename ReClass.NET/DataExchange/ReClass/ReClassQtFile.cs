@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Xml.Linq;
-using ReClassNET.DataExchange.ReClass.Legacy;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.DataExchange.ReClass.Legacy;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.DataExchange.ReClass
+namespace DeClassNet.DataExchange.ReClass
 {
 	public class ReClassQtFile : IReClassImport
 	{
@@ -88,7 +88,7 @@ namespace ReClassNET.DataExchange.ReClass
 			}
 		}
 
-		/// <summary>Parse a ReClassQT address string and transform it into a ReClass.NET formula.</summary>
+		/// <summary>Parse a ReClassQT address string and transform it into a DeClass.NET formula.</summary>
 		/// <param name="element">The class element.</param>
 		/// <returns>A string with an address formula.</returns>
 		private static string ParseAddressString(XElement element)

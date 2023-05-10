@@ -2,10 +2,10 @@ using System;
 using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
-using ReClassNET.Controls;
-using ReClassNET.UI;
+using DeClassNet.Controls;
+using DeClassNet.UI;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public delegate void ClassCreatedEventHandler(ClassNode node);
 

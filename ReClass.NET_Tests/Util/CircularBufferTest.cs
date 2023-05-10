@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using NFluent;
-using ReClassNET.Util;
+using DeClassNet.Util;
 using Xunit;
 
-namespace ReClass.NET_Tests.Util
+namespace DeClass.NET_Tests.Util
 {
 	public class CircularBufferTest
 	{

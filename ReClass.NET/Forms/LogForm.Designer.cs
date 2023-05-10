@@ -1,4 +1,4 @@
-﻿namespace ReClassNET.Forms
+﻿namespace DeClassNet.Forms
 {
 	partial class LogForm
 	{
@@ -55,7 +55,7 @@
 			// copyToClipboardButton
 			// 
 			this.copyToClipboardButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-			this.copyToClipboardButton.Image = global::ReClassNET.Properties.Resources.B16x16_Page_Copy;
+			this.copyToClipboardButton.Image = global::DeClassNet.Properties.Resources.B16x16_Page_Copy;
 			this.copyToClipboardButton.Location = new System.Drawing.Point(12, 206);
 			this.copyToClipboardButton.Name = "copyToClipboardButton";
 			this.copyToClipboardButton.Size = new System.Drawing.Size(120, 23);
@@ -135,7 +135,7 @@
 			this.Controls.Add(this.closeButton);
 			this.Controls.Add(this.entriesDataGridView);
 			this.Name = "LogForm";
-			this.Text = "ReClass.NET - Diagnostic Messages";
+			this.Text = "DeClass.NET - Diagnostic Messages";
 			((System.ComponentModel.ISupportInitialize)(this.entriesDataGridView)).EndInit();
 			this.contextMenuStrip.ResumeLayout(false);
 			this.ResumeLayout(false);

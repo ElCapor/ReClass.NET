@@ -4,10 +4,10 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Logger;
-using ReClassNET.UI;
+using DeClassNet.Logger;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class LogForm : IconForm
 	{

@@ -2,9 +2,9 @@ using System;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	public abstract class ScanResult
 	{

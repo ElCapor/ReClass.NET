@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public class Module
 	{

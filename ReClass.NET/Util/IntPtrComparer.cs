@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public class IntPtrComparer : IComparer<IntPtr>
 	{

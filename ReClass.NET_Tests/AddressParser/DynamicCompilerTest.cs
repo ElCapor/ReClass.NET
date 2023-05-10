@@ -1,6 +1,6 @@
-﻿using ReClassNET.AddressParser;
+﻿using DeClassNet.AddressParser;
 
-namespace ReClass.NET_Tests.AddressParser
+namespace DeClass.NET_Tests.AddressParser
 {
 	public class DynamicCompilerTest : ExecutorTest
 	{

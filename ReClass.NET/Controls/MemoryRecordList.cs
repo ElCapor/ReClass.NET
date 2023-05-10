@@ -4,12 +4,12 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.MemoryScanner;
-using ReClassNET.UI;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.MemoryScanner;
+using DeClassNet.UI;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public delegate void MemorySearchResultControlResultDoubleClickEventHandler(object sender, MemoryRecord record);
 

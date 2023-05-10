@@ -1,4 +1,4 @@
-﻿namespace ReClassNET.CodeGenerator
+﻿namespace DeClassNet.CodeGenerator
 {
 	public enum Language
 	{

@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
-using ReClassNET.Extensions;
-using ReClassNET.Forms;
-using ReClassNET.Memory;
+using DeClassNet.Extensions;
+using DeClassNet.Forms;
+using DeClassNet.Memory;
 
-namespace ReClassNET.Debugger
+namespace DeClassNet.Debugger
 {
 	public partial class RemoteDebugger
 	{

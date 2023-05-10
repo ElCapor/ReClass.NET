@@ -5,13 +5,13 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Xml.Linq;
-using ReClassNET.DataExchange.ReClass.Legacy;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.DataExchange.ReClass.Legacy;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.DataExchange.ReClass
+namespace DeClassNet.DataExchange.ReClass
 {
 	public partial class ReClassNetFile
 	{

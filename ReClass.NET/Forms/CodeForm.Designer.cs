@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class CodeForm
 	{
@@ -38,7 +38,7 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B32x32_Page_Code;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B32x32_Page_Code;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(629, 48);
@@ -66,7 +66,7 @@ namespace ReClassNET.Forms
 			this.MinimumSize = new System.Drawing.Size(350, 185);
 			this.Name = "CodeForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Code Generator";
+			this.Text = "DeClass.NET - Code Generator";
 			((System.ComponentModel.ISupportInitialize)(this.bannerBox)).EndInit();
 			this.ResumeLayout(false);
 

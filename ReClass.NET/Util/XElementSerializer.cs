@@ -5,9 +5,9 @@ using System.Drawing;
 using System.Globalization;
 using System.Linq;
 using System.Xml.Linq;
-using ReClassNET.Extensions;
+using DeClassNet.Extensions;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public static class XElementSerializer
 	{

@@ -1,4 +1,4 @@
-﻿namespace ReClassNET.Util.Rtf
+﻿namespace DeClassNet.Util.Rtf
 {
 	public enum RtfFont
 	{

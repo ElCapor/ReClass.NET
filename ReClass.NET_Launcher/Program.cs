@@ -2,10 +2,10 @@
 using System.Diagnostics;
 using System.IO;
 using System.Windows.Forms;
-using ReClassNET;
-using ReClassNET.DataExchange.ReClass;
-using ReClassNET.Native;
-using ReClassNET.Util;
+using DeClassNet;
+using DeClassNet.DataExchange.ReClass;
+using DeClassNet.Native;
+using DeClassNet.Util;
 
 namespace ReClassNET_Launcher
 {
@@ -45,7 +45,7 @@ namespace ReClassNET_Launcher
 				}
 			}
 
-			// And finally start the real ReClass.NET.
+			// And finally start the real DeClass.NET.
 			var applicationPath = Path.Combine(PathUtil.ExecutableFolderPath, is64Bit ? "x64" : "x86", Constants.ApplicationExecutableName);
 
 			try

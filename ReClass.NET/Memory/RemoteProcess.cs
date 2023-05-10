@@ -6,15 +6,15 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using ReClassNET.AddressParser;
-using ReClassNET.Core;
-using ReClassNET.Debugger;
-using ReClassNET.Extensions;
-using ReClassNET.Native;
-using ReClassNET.Symbols;
-using ReClassNET.Util.Conversion;
+using DeClassNet.AddressParser;
+using DeClassNet.Core;
+using DeClassNet.Debugger;
+using DeClassNet.Extensions;
+using DeClassNet.Native;
+using DeClassNet.Symbols;
+using DeClassNet.Util.Conversion;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public delegate void RemoteProcessEvent(RemoteProcess sender);
 

@@ -2,7 +2,7 @@
 using System.Diagnostics.Contracts;
 using System.Drawing;
 
-namespace ReClassNET.Util.Rtf
+namespace DeClassNet.Util.Rtf
 {
 	partial class RtfBuilder
 	{

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ReClassNET.Logger
+namespace DeClassNet.Logger
 {
 	/// <summary>A logger that does nothing.</summary>
 	public class NullLogger : ILogger

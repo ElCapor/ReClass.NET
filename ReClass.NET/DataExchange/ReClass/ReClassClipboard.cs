@@ -3,18 +3,18 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.IO;
 using System.Windows.Forms;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.DataExchange.ReClass
+namespace DeClassNet.DataExchange.ReClass
 {
 	public class ReClassClipboard
 	{
 		/// <summary>The clipboard format string.</summary>
-		private const string ClipboardFormat = "ReClass.NET::Nodes";
+		private const string ClipboardFormat = "DeClass.NET::Nodes";
 
-		/// <summary>Checks if ReClass.NET nodes are present in the clipboard.</summary>
+		/// <summary>Checks if DeClass.NET nodes are present in the clipboard.</summary>
 		public static bool ContainsNodes => Clipboard.ContainsData(ClipboardFormat);
 
 		/// <summary>Copies the nodes to the clipboard.</summary>

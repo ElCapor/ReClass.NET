@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
-using ReClassNET.Memory;
+using DeClassNet.Memory;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	[ContractClass(typeof(NodeInfoReaderContract))]
 	public interface INodeInfoReader

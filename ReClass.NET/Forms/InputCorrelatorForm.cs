@@ -4,12 +4,12 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ReClassNET.Input;
-using ReClassNET.Memory;
-using ReClassNET.MemoryScanner;
-using ReClassNET.UI;
+using DeClassNet.Input;
+using DeClassNet.Memory;
+using DeClassNet.MemoryScanner;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class InputCorrelatorForm : IconForm
 	{

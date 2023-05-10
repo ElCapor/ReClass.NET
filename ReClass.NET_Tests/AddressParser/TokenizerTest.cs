@@ -1,9 +1,9 @@
 ﻿using System.IO;
 using NFluent;
-using ReClassNET.AddressParser;
+using DeClassNet.AddressParser;
 using Xunit;
 
-namespace ReClass.NET_Tests.AddressParser
+namespace DeClass.NET_Tests.AddressParser
 {
 	public class TokenizerTest
 	{

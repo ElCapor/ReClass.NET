@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace ReClassNET.Util.Conversion
+namespace DeClassNet.Util.Conversion
 {
 	public abstract class EndianBitConverter
 	{

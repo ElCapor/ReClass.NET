@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace ReClassNET.AddressParser
+namespace DeClassNet.AddressParser
 {
 	public class Parser
 	{

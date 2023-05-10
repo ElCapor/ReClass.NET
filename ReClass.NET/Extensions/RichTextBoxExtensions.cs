@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace ReClassNET.Extensions
+namespace DeClassNet.Extensions
 {
 	public static class RichTextBoxExtension
 	{

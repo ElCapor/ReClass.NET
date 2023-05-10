@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace ReClassNET.MemoryScanner.Comparer
+namespace DeClassNet.MemoryScanner.Comparer
 {
 	public class ByteMemoryComparer : ISimpleScanComparer
 	{

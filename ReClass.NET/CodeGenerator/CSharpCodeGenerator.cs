@@ -4,12 +4,12 @@ using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.IO;
 using System.Linq;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.CodeGenerator
+namespace DeClassNet.CodeGenerator
 {
 	public class CSharpCodeGenerator : ICodeGenerator
 	{

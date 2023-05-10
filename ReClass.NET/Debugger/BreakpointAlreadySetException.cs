@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Debugger
+namespace DeClassNet.Debugger
 {
 	public class BreakpointAlreadySetException : Exception
 	{

@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class ProcessBrowserForm
 	{
@@ -128,7 +128,7 @@ namespace ReClassNET.Forms
 			// 
 			// refreshButton
 			// 
-			this.refreshButton.Image = global::ReClassNET.Properties.Resources.B16x16_Arrow_Refresh;
+			this.refreshButton.Image = global::DeClassNet.Properties.Resources.B16x16_Arrow_Refresh;
 			this.refreshButton.Location = new System.Drawing.Point(9, 99);
 			this.refreshButton.Name = "refreshButton";
 			this.refreshButton.Size = new System.Drawing.Size(158, 23);
@@ -144,7 +144,7 @@ namespace ReClassNET.Forms
 			this.attachToProcessButton.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
 			this.attachToProcessButton.DialogResult = System.Windows.Forms.DialogResult.OK;
-			this.attachToProcessButton.Image = global::ReClassNET.Properties.Resources.B16x16_Accept;
+			this.attachToProcessButton.Image = global::DeClassNet.Properties.Resources.B16x16_Accept;
 			this.attachToProcessButton.Location = new System.Drawing.Point(12, 519);
 			this.attachToProcessButton.Name = "attachToProcessButton";
 			this.attachToProcessButton.Size = new System.Drawing.Size(549, 23);
@@ -222,12 +222,12 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B32x32_Magnifier;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B32x32_Magnifier;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(573, 48);
 			this.bannerBox.TabIndex = 6;
-			this.bannerBox.Text = "Select the process to which ReClass.NET is to be attached.";
+			this.bannerBox.Text = "Select the process to which DeClass.NET is to be attached.";
 			this.bannerBox.Title = "Attach to Process";
 			// 
 			// ProcessBrowserForm
@@ -247,7 +247,7 @@ namespace ReClassNET.Forms
 			this.Name = "ProcessBrowserForm";
 			this.ShowInTaskbar = false;
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Attach to Process";
+			this.Text = "DeClass.NET - Attach to Process";
 			((System.ComponentModel.ISupportInitialize)(this.processDataGridView)).EndInit();
 			this.filterGroupBox.ResumeLayout(false);
 			this.filterGroupBox.PerformLayout();

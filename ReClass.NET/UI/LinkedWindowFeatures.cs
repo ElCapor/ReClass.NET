@@ -2,13 +2,13 @@ using System;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Debugger;
-using ReClassNET.Forms;
-using ReClassNET.MemoryScanner;
-using ReClassNET.MemoryScanner.Comparer;
-using ReClassNET.Nodes;
+using DeClassNet.Debugger;
+using DeClassNet.Forms;
+using DeClassNet.MemoryScanner;
+using DeClassNet.MemoryScanner.Comparer;
+using DeClassNet.Nodes;
 
-namespace ReClassNET.UI
+namespace DeClassNet.UI
 {
 	public class LinkedWindowFeatures
 	{

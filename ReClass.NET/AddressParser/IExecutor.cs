@@ -1,7 +1,7 @@
 ﻿using System;
-using ReClassNET.Memory;
+using DeClassNet.Memory;
 
-namespace ReClassNET.AddressParser
+namespace DeClassNet.AddressParser
 {
 	public interface IExecutor
 	{

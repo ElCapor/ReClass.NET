@@ -1,11 +1,11 @@
 using System.Drawing;
 using System.Globalization;
-using ReClassNET.Controls;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.UI;
+using DeClassNet.Controls;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.UI;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class UInt8Node : BaseNumericNode
 	{

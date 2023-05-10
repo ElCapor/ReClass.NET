@@ -2,7 +2,7 @@
 using System.Diagnostics.Contracts;
 using System.IO;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public static class Dumper
 	{

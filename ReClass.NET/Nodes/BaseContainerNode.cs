@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public abstract class BaseContainerNode : BaseNode
 	{

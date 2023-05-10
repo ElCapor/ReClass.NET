@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class PluginForm
 	{
@@ -41,7 +41,7 @@ namespace ReClassNET.Forms
 			this.label1 = new System.Windows.Forms.Label();
 			this.getMoreLinkLabel = new System.Windows.Forms.LinkLabel();
 			this.closeButton = new System.Windows.Forms.Button();
-			this.bannerBox = new ReClassNET.Controls.BannerBox();
+			this.bannerBox = new DeClassNet.Controls.BannerBox();
 			this.iconColumn = new System.Windows.Forms.DataGridViewImageColumn();
 			this.nameColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.versionColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -158,7 +158,7 @@ namespace ReClassNET.Forms
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(409, 39);
 			this.label1.TabIndex = 0;
-			this.label1.Text = "Plugins can provide different methods how ReClass.NET accesses a remote process.\r" +
+			this.label1.Text = "Plugins can provide different methods how DeClass.NET accesses a remote process.\r" +
     "\n\r\nWarning: You should detach from the current process before changing a functio" +
     "n.";
 			// 
@@ -188,12 +188,12 @@ namespace ReClassNET.Forms
 			// bannerBox
 			// 
 			this.bannerBox.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox.Icon = global::ReClassNET.Properties.Resources.B32x32_Plugin;
+			this.bannerBox.Icon = global::DeClassNet.Properties.Resources.B32x32_Plugin;
 			this.bannerBox.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox.Name = "bannerBox";
 			this.bannerBox.Size = new System.Drawing.Size(740, 48);
 			this.bannerBox.TabIndex = 3;
-			this.bannerBox.Text = "Here you can configure all loaded ReClass.NET plugins.";
+			this.bannerBox.Text = "Here you can configure all loaded DeClass.NET plugins.";
 			this.bannerBox.Title = "Plugins";
 			// 
 			// iconColumn
@@ -250,7 +250,7 @@ namespace ReClassNET.Forms
 			this.Name = "PluginForm";
 			this.ShowInTaskbar = false;
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Plugins";
+			this.Text = "DeClass.NET - Plugins";
 			this.tabControl.ResumeLayout(false);
 			this.pluginsTabPage.ResumeLayout(false);
 			this.descriptionGroupBox.ResumeLayout(false);

@@ -1,10 +1,10 @@
 using System;
 using System.Text;
 using NFluent;
-using ReClassNET.Memory;
+using DeClassNet.Memory;
 using Xunit;
 
-namespace ReClass.NET_Tests.Memory
+namespace DeClass.NET_Tests.Memory
 {
 	public class MemoryBufferTest
 	{

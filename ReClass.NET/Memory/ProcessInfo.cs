@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 using System.Drawing;
-using ReClassNET.Native;
+using DeClassNet.Native;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public class ProcessInfo
 	{

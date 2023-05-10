@@ -4,10 +4,10 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Plugins;
-using ReClassNET.UI;
+using DeClassNet.Plugins;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class PluginForm : IconForm
 	{

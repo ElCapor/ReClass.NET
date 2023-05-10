@@ -1,9 +1,9 @@
 using System.Drawing;
 using NFluent;
-using ReClassNET.UI;
+using DeClassNet.UI;
 using Xunit;
 
-namespace ReClass.NET_Tests.UI
+namespace DeClass.NET_Tests.UI
 {
 	public class DpiUtilTest
 	{

@@ -1,10 +1,10 @@
 using System;
 using System.Diagnostics.Contracts;
 using System.Text;
-using ReClassNET.Extensions;
-using ReClassNET.Util.Conversion;
+using DeClassNet.Extensions;
+using DeClassNet.Util.Conversion;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public class MemoryBuffer
 	{

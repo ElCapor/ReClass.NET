@@ -1,4 +1,4 @@
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	partial class ProjectView
 	{

@@ -8,17 +8,17 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ReClassNET.Controls;
-using ReClassNET.DataExchange.Scanner;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Memory;
-using ReClassNET.MemoryScanner;
-using ReClassNET.MemoryScanner.Comparer;
-using ReClassNET.UI;
-using ReClassNET.Util;
+using DeClassNet.Controls;
+using DeClassNet.DataExchange.Scanner;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Memory;
+using DeClassNet.MemoryScanner;
+using DeClassNet.MemoryScanner.Comparer;
+using DeClassNet.UI;
+using DeClassNet.Util;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class ScannerForm : IconForm
 	{

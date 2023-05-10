@@ -1,4 +1,4 @@
-﻿namespace ReClassNET.Logger
+﻿namespace DeClassNet.Logger
 {
 	public enum LogLevel
 	{

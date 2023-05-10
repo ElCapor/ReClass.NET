@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ReClassNET.MemoryScanner.Comparer
+namespace DeClassNet.MemoryScanner.Comparer
 {
 	public interface IComplexScanComparer : IScanComparer
 	{

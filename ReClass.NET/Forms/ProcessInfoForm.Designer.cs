@@ -1,6 +1,6 @@
-using ReClassNET.Controls;
+using DeClassNet.Controls;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	partial class ProcessInfoForm
 	{
@@ -43,7 +43,7 @@ namespace ReClassNET.Forms
 			this.protectionColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.typeColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.moduleColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-			this.bannerBox1 = new ReClassNET.Controls.BannerBox();
+			this.bannerBox1 = new DeClassNet.Controls.BannerBox();
 			this.tabControl = new System.Windows.Forms.TabControl();
 			this.modulesTabPage = new System.Windows.Forms.TabPage();
 			this.modulesDataGridView = new System.Windows.Forms.DataGridView();
@@ -75,7 +75,7 @@ namespace ReClassNET.Forms
 			// 
 			// setCurrentClassAddressToolStripMenuItem
 			// 
-			this.setCurrentClassAddressToolStripMenuItem.Image = global::ReClassNET.Properties.Resources.B16x16_Exchange_Button;
+			this.setCurrentClassAddressToolStripMenuItem.Image = global::DeClassNet.Properties.Resources.B16x16_Exchange_Button;
 			this.setCurrentClassAddressToolStripMenuItem.Name = "setCurrentClassAddressToolStripMenuItem";
 			this.setCurrentClassAddressToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
 			this.setCurrentClassAddressToolStripMenuItem.Text = "Set current class address";
@@ -83,7 +83,7 @@ namespace ReClassNET.Forms
 			// 
 			// createClassAtAddressToolStripMenuItem
 			// 
-			this.createClassAtAddressToolStripMenuItem.Image = global::ReClassNET.Properties.Resources.B16x16_Button_Class_Add;
+			this.createClassAtAddressToolStripMenuItem.Image = global::DeClassNet.Properties.Resources.B16x16_Button_Class_Add;
 			this.createClassAtAddressToolStripMenuItem.Name = "createClassAtAddressToolStripMenuItem";
 			this.createClassAtAddressToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
 			this.createClassAtAddressToolStripMenuItem.Text = "Create class at address";
@@ -96,7 +96,7 @@ namespace ReClassNET.Forms
 			// 
 			// dumpToolStripMenuItem
 			// 
-			this.dumpToolStripMenuItem.Image = global::ReClassNET.Properties.Resources.B16x16_Drive_Go;
+			this.dumpToolStripMenuItem.Image = global::DeClassNet.Properties.Resources.B16x16_Drive_Go;
 			this.dumpToolStripMenuItem.Name = "dumpToolStripMenuItem";
 			this.dumpToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
 			this.dumpToolStripMenuItem.Text = "Dump...";
@@ -185,7 +185,7 @@ namespace ReClassNET.Forms
 			// bannerBox1
 			// 
 			this.bannerBox1.Dock = System.Windows.Forms.DockStyle.Top;
-			this.bannerBox1.Icon = global::ReClassNET.Properties.Resources.B32x32_Magnifier;
+			this.bannerBox1.Icon = global::DeClassNet.Properties.Resources.B32x32_Magnifier;
 			this.bannerBox1.Location = new System.Drawing.Point(0, 0);
 			this.bannerBox1.Name = "bannerBox1";
 			this.bannerBox1.Size = new System.Drawing.Size(834, 48);
@@ -309,7 +309,7 @@ namespace ReClassNET.Forms
 			this.MinimumSize = new System.Drawing.Size(586, 320);
 			this.Name = "ProcessInfoForm";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-			this.Text = "ReClass.NET - Process Informations";
+			this.Text = "DeClass.NET - Process Informations";
 			this.Load += new System.EventHandler(this.ProcessInfoForm_Load);
 			this.contextMenuStrip.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.sectionsDataGridView)).EndInit();

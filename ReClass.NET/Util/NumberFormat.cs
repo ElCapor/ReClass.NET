@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics.Contracts;
 using System.Globalization;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public static class NumberFormat
 	{

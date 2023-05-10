@@ -1,14 +1,14 @@
 using System;
 using System.Diagnostics.Contracts;
 using System.Windows.Forms;
-using ReClassNET.Controls;
-using ReClassNET.Extensions;
-using ReClassNET.Native;
-using ReClassNET.Project;
-using ReClassNET.UI;
-using ReClassNET.Util;
+using DeClassNet.Controls;
+using DeClassNet.Extensions;
+using DeClassNet.Native;
+using DeClassNet.Project;
+using DeClassNet.UI;
+using DeClassNet.Util;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class SettingsForm : IconForm
 	{

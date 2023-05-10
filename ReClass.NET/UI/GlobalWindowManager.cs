@@ -4,7 +4,7 @@ using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace ReClassNET.UI
+namespace DeClassNet.UI
 {
 	public sealed class GlobalWindowManagerEventArgs : EventArgs
 	{

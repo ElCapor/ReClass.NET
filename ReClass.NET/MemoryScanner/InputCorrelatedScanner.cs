@@ -5,11 +5,11 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ReClassNET.Input;
-using ReClassNET.Memory;
-using ReClassNET.MemoryScanner.Comparer;
+using DeClassNet.Input;
+using DeClassNet.Memory;
+using DeClassNet.MemoryScanner.Comparer;
 
-namespace ReClassNET.MemoryScanner
+namespace DeClassNet.MemoryScanner
 {
 	public class InputCorrelatedScanner : Scanner
 	{

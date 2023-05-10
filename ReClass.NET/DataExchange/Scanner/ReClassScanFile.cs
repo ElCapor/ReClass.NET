@@ -6,15 +6,15 @@ using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Xml.Linq;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.MemoryScanner;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.MemoryScanner;
 
-namespace ReClassNET.DataExchange.Scanner
+namespace DeClassNet.DataExchange.Scanner
 {
 	public class ReClassScanFile : IScannerImport, IScannerExport
 	{
-		public const string FormatName = "ReClass.NET Scanner File";
+		public const string FormatName = "DeClass.NET Scanner File";
 		public const string FileExtension = ".rcnetscan";
 
 		private const string Version1 = "1";

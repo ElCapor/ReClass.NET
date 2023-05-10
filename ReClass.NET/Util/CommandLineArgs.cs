@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.Util
+namespace DeClassNet.Util
 {
 	public class CommandLineArgs
 	{

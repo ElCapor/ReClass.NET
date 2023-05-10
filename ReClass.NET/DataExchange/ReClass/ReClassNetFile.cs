@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
-using ReClassNET.DataExchange.ReClass.Legacy;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.DataExchange.ReClass.Legacy;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.DataExchange.ReClass
+namespace DeClassNet.DataExchange.ReClass
 {
 	public partial class ReClassNetFile : IReClassImport, IReClassExport
 	{

@@ -1,10 +1,10 @@
 using System.Drawing;
-using ReClassNET.Controls;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.UI;
+using DeClassNet.Controls;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.UI;
 
-namespace ReClassNET.Nodes
+namespace DeClassNet.Nodes
 {
 	public class FloatNode : BaseNumericNode
 	{

@@ -4,11 +4,11 @@ using System.ComponentModel;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Extensions;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.Extensions;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public partial class ProjectView : UserControl
 	{

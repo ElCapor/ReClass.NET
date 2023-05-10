@@ -4,13 +4,13 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.Nodes;
-using ReClassNET.UI;
-using ReClassNET.Util;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.Nodes;
+using DeClassNet.UI;
+using DeClassNet.Util;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public partial class MemoryViewControl : UserControl
 	{

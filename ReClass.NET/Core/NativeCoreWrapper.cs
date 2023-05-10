@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using ReClassNET.Debugger;
-using ReClassNET.Extensions;
-using ReClassNET.Native;
+using DeClassNet.Debugger;
+using DeClassNet.Extensions;
+using DeClassNet.Native;
 
-namespace ReClassNET.Core
+namespace DeClassNet.Core
 {
 	public class NativeCoreWrapper : ICoreProcessFunctions
 	{

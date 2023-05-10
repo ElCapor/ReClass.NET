@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace ReClassNET.Memory
+namespace DeClassNet.Memory
 {
 	public class SimplePeHeader
 	{

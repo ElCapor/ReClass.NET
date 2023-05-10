@@ -6,13 +6,13 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
-using ReClassNET.Controls;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
+using DeClassNet.Controls;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
 
-namespace ReClassNET.CodeGenerator
+namespace DeClassNet.CodeGenerator
 {
 	public delegate void WriteNodeFunc(IndentedTextWriter writer, BaseNode node, ILogger logger);
 

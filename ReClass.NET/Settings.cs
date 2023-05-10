@@ -1,8 +1,8 @@
 ﻿using System.Drawing;
 using System.Text;
-using ReClassNET.Util;
+using DeClassNet.Util;
 
-namespace ReClassNET
+namespace DeClassNet
 {
 	public class Settings
 	{

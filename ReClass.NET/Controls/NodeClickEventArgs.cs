@@ -2,10 +2,10 @@ using System;
 using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Windows.Forms;
-using ReClassNET.Memory;
-using ReClassNET.Nodes;
+using DeClassNet.Memory;
+using DeClassNet.Nodes;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	public class NodeClickEventArgs : EventArgs
 	{

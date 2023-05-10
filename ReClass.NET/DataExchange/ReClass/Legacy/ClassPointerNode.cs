@@ -1,9 +1,9 @@
 using System;
 using System.Drawing;
-using ReClassNET.Controls;
-using ReClassNET.Nodes;
+using DeClassNet.Controls;
+using DeClassNet.Nodes;
 
-namespace ReClassNET.DataExchange.ReClass.Legacy
+namespace DeClassNet.DataExchange.ReClass.Legacy
 {
 	public class ClassPointerNode : BaseWrapperNode
 	{

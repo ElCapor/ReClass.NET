@@ -3,7 +3,7 @@ using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace ReClassNET.Input
+namespace DeClassNet.Input
 {
 	public class KeyboardHotkey
 	{

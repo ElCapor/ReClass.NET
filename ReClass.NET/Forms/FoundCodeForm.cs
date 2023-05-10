@@ -5,13 +5,13 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using ReClassNET.Debugger;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.Nodes;
-using ReClassNET.UI;
+using DeClassNet.Debugger;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.Nodes;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class FoundCodeForm : IconForm
 	{

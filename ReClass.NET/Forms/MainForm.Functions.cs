@@ -7,17 +7,17 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ReClassNET.CodeGenerator;
-using ReClassNET.Controls;
-using ReClassNET.DataExchange.ReClass;
-using ReClassNET.Extensions;
-using ReClassNET.Logger;
-using ReClassNET.Memory;
-using ReClassNET.Nodes;
-using ReClassNET.Project;
-using ReClassNET.UI;
+using DeClassNet.CodeGenerator;
+using DeClassNet.Controls;
+using DeClassNet.DataExchange.ReClass;
+using DeClassNet.Extensions;
+using DeClassNet.Logger;
+using DeClassNet.Memory;
+using DeClassNet.Nodes;
+using DeClassNet.Project;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class MainForm
 	{
@@ -217,7 +217,7 @@ namespace ReClassNET.Forms
 
 			LoadProjectFromPath(path, ref project);
 
-			// If the file is a ReClass.NET file remember the path.
+			// If the file is a DeClass.NET file remember the path.
 			if (Path.GetExtension(path) == ReClassNetFile.FileExtension)
 			{
 				project.Path = path;

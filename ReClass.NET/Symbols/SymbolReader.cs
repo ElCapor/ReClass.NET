@@ -2,11 +2,11 @@
 using System.Diagnostics.Contracts;
 using System.Text;
 using Dia2Lib;
-using ReClassNET.Extensions;
-using ReClassNET.Memory;
-using ReClassNET.Native;
+using DeClassNet.Extensions;
+using DeClassNet.Memory;
+using DeClassNet.Native;
 
-namespace ReClassNET.Symbols
+namespace DeClassNet.Symbols
 {
 	public class SymbolReader : IDisposable
 	{

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 using System.Windows.Forms;
-using ReClassNET.UI;
+using DeClassNet.UI;
 
-namespace ReClassNET.Forms
+namespace DeClassNet.Forms
 {
 	public partial class InputBytesForm : IconForm
 	{

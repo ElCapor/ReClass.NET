@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 
-namespace ReClassNET.Util.Rtf
+namespace DeClassNet.Util.Rtf
 {
 	public partial class RtfBuilder
 	{

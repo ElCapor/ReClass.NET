@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("Reclass.NET")]
+[assembly: AssemblyTitle("DeClass.NET")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Reclass.NET")]
+[assembly: AssemblyProduct("DeClass.NET")]
 [assembly: AssemblyCopyright("KN4CK3R")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

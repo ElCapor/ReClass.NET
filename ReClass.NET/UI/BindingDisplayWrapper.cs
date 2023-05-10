@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 
-namespace ReClassNET.UI
+namespace DeClassNet.UI
 {
 	public class BindingDisplayWrapper<T>
 	{

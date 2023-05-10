@@ -4,7 +4,7 @@ using System.Diagnostics.Contracts;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace ReClassNET.Controls
+namespace DeClassNet.Controls
 {
 	[DefaultEvent(nameof(ColorChanged))]
 	[DefaultBindingProperty(nameof(Color))]

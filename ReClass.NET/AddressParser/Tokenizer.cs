@@ -3,7 +3,7 @@ using System.Globalization;
 using System.IO;
 using System.Text;
 
-namespace ReClassNET.AddressParser
+namespace DeClassNet.AddressParser
 {
 	/// <summary>
 	/// Parses the given text and reads individual tokens from it.
